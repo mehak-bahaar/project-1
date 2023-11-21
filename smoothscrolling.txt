@@ -1,0 +1,8 @@
+smooth scrolling
+    attach loco scroll css
+    attach locomitive scroll min js
+    some code for loco github for js
+    attatch locomitive script js cdn
+gsap
+    attach gsap
+scroll trigger
